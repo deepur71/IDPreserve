@@ -233,13 +233,6 @@ gradio_demo/app-multicontrolnet.py
 ## Disclaimer
 The code of InstantID is released under [Apache License](https://github.com/InstantID/InstantID?tab=Apache-2.0-1-ov-file#readme) for both academic and commercial usage. **However, both manual-downloading and auto-downloading face models from insightface are for non-commercial research purposes only** according to their [license](https://github.com/deepinsight/insightface?tab=readme-ov-file#license). **Our released checkpoints are also for research purposes only**. Users are granted the freedom to create images using this tool, but they are obligated to comply with local laws and utilize it responsibly. The developers will not assume any responsibility for potential misuse by users.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=InstantID/InstantID&type=Date)](https://star-history.com/#InstantID/InstantID&Date)
-
-## Cite
-If you find InstantID useful for your research and applications, please cite us using this BibTeX:
-
 ```
 
 For any question, please feel free to contact us via deepu.raveendran71@gmail.com
